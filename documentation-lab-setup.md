@@ -30,5 +30,14 @@ Domain
 -EU-EastCharmer 
 ... (US and Asia same input)
 
-#3. Group Policy Obkects
+## 3. Group Policy Objects (GPOs)
+**Applied and testes on client machines**
+
+- Default Domain Controllers Policy
+- Default Domain Policy
+- Desktop Wallpaper
+- Disable USB devices
+- Drive Mapping
+- Password policy
+- Restrict Control Panel
   
