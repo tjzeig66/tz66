@@ -30,6 +30,7 @@ Domain
 -EU-EastCharmer 
 ... (US and Asia same input)
 
+![Security & Distribution Groups Screenshot](../screenshots/security-distribution-groups.png)
 ## 3. Group Policy Objects (GPOs)
 **Applied and tested on client machines**
 
