@@ -31,7 +31,7 @@ Domain
 ... (US and Asia same input)
 
 ## 3. Group Policy Objects (GPOs)
-**Applied and testes on client machines**
+**Applied and tested on client machines**
 
 - Default Domain Controllers Policy
 - Default Domain Policy
