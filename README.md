@@ -24,4 +24,4 @@ Directory Services:
 - implemented service accounts and used **Sysinternals tools**
 - Assigned network permissions on Windows file shares
 - Configured **Access-Based Enumeration** for file resources
-- 
+  
