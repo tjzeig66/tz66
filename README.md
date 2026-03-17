@@ -30,7 +30,7 @@ Domain
 -Asia
   - Users
   - Computers
-  -Servers
+  - Servers
 
 ## Security and Distribution Groups 
 Example groups created in the lab:
