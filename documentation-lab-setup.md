@@ -1,7 +1,7 @@
 # Active Directory Lab Documentation 
 
 ## 1. Organizational Unit (OU) Structure
-Domain 
+Domain
 -US
   - Users
   - Computers
