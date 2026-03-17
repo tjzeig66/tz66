@@ -37,7 +37,11 @@ Domain
 Example groups created in the lab:
 
 EU-DL-AllEmployees
+
 EU-DL-ITAdmins
+
 EU-IT
+
 EU-EastCharmer
+
 Similar group structures were creared for US and Asia to simulate regional access control.
