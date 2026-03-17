@@ -13,35 +13,14 @@ Server:
 Directory Services:
 -Active Directory Domain Services (AD DS)
 
-## Organizational Unit Structure 
-The domain is organized by geographic regions
-
-Domain 
-
--US
-  - Users
-  - Computers
-  - Servers
-
--Europe
-  - Users
-  - Computers
-  - Servers
-
--Asia
-  - Users
-  - Computers
-  - Servers
-
-## Security and Distribution Groups 
-Example groups created in the lab:
-
-EU-DL-AllEmployees
-
-EU-DL-ITAdmins
-
-EU-IT
-
-EU-EastCharmer
-
-Similar group structures were creared for US and Asia to simulate regional access control.
+## Skills Demonstrated
+- Built multi-region OU structure in the **Active Directory**
+- Created and managed security and distribution groups
+- Domain join of client computers
+- Configured **Group Policy Objects (GPOs)**
+- Applied and tested GPOs on client machines
+- Set up file sharing and managed access using security groups
+- Implemented security policies
+- implemented service accounts and used **Sysinternals tools**
+- Assigned network permissions on Windows file shares
+- Configured **Access-Based Enumeration** for file resources
