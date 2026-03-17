@@ -2,6 +2,7 @@
 
 ## 1. Organizational Unit (OU) Structure
 Domain
+
 -US
   - Users
   - Computers
@@ -21,8 +22,11 @@ Domain
 ## 2. Security & Distribution Groups
 ### Europe
 -EU-DL-AllEmployees
+
 -EU-DL-ITAdmins
+
 -EU-IT
+
 -EU-EastCharmer 
 ... (US and Asia same input)
 
