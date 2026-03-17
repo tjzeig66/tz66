@@ -18,7 +18,7 @@ Domain
   - Computers
   - Servers
 
-! [OU Structure](../screenshots/ad-ou-structure.png)**
+![OU Structure](../screenshots/ad-ou-structure.png)
 ## 2. Security & Distribution Groups
 ### Europe
 -EU-DL-AllEmployees
@@ -41,4 +41,4 @@ Domain
 - Password policy
 - Restrict Control Panel
   
-! [GPO Screenshot](../screenshots/gpo-example.png)
+![GPO Screenshot](../screenshots/gpo-example.png)
