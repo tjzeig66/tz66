@@ -14,22 +14,24 @@ Directory Services:
 -Active Directory Domain Services (AD DS)
 
 ## Skills Demonstrated
--  Built multi-region OU structure in the **Active Directory**
+
+### Active Directory Structure & Management
+-   Built multi-region OU structure in the **Active Directory**
 -  Created and managed security and distribution groups
 -  Domain join of client computers
   [View documentation](OU-Groups-Join.md)
 
-
+### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
   [View documentation](GPO-Config.md)
 
-
+### Security & Services Accounts
  -  Implemented security policies
  - implemented service accounts and used **Sysinternals tools**
   [View documentation](File-Sharing.md)
   
-
+### File Services & Permissions
 -   Set up file sharing and managed access using security groups
 -  Assigned network permissions on Windows file shares
 -  Configured **Access-Based Enumeration** for file resources
