@@ -18,7 +18,7 @@ Domain
   - Computers
   - Servers
 
-![OU Structure](screenshots/ad-ou-structure.png)
+[OU Structure](screenshots/ad-ou-structure.png)
 ## 2. Security & Distribution Groups
 ### Europe
 -EU-DL-AllEmployees
@@ -30,7 +30,7 @@ Domain
 -EU-EastCharmer 
 ... (US and Asia same input)
 
-![Security & Distribution Groups Screenshot](screenshots/security-distribution-groups.png)
+[Security & Distribution Groups](screenshots/security-distribution-groups.png)
 ## 3. Group Policy Objects (GPOs)
 **Applied and tested on client machines**
 
@@ -42,4 +42,4 @@ Domain
 - Password policy
 - Restrict Control Panel
   
-![GPO Screenshot](../screenshots/gpo-example.png)
+[GPO Examples](../screenshots/gpo-example.png)
