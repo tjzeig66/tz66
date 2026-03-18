@@ -1,4 +1,4 @@
-# Active Directory Lab Documentation 
+# Active Directory Structure & Management Lab Documentation 
 
 ## 1. Organizational Unit (OU) Structure
 Domain
