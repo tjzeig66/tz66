@@ -19,14 +19,17 @@ Directory Services:
 -  Domain join of client computers
   [View documentation](OU-Groups-Join.md)
 
+
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
   [View documentation](GPO-Config.md)
 
+
  -  Implemented security policies
--  implemented service accounts and used **Sysinternals tools**
+ - implemented service accounts and used **Sysinternals tools**
   [View documentation](File-Sharing.md)
   
+
 -   Set up file sharing and managed access using security groups
 -  Assigned network permissions on Windows file shares
 -  Configured **Access-Based Enumeration** for file resources
