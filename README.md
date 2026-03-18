@@ -21,15 +21,21 @@ Directory Services:
 -  Domain join of client computers
   [View documentation](OU-Groups-Join.md)
 
+---
+
 ### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
   [View documentation](GPO-Config.md)
 
+---
+
 ### Security & Services Accounts
  -  Implemented security policies
  - implemented service accounts and used **Sysinternals tools**
   [View documentation](File-Sharing.md)
+
+---
   
 ### File Services & Permissions
 -   Set up file sharing and managed access using security groups
