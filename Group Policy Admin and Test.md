@@ -12,3 +12,11 @@
 [GPOs](screenshots/gpo-examples.png)
 
 ## 4. Applied & Tested GPOs on Client Machines
+
+### Group Policy Objects Applied to Client VM
+
+[GPOs Applied](screenshots/gpos-applied-client.png)
+
+### Disable Wallpaper via GPO
+
+[Disable Wallpaper](screenshots/GPO-disable-wallpaper.png)
