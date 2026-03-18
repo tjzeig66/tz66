@@ -42,4 +42,4 @@ Domain
 - Password policy
 - Restrict Control Panel
   
-[GPOs](screenshots/gpo-example.png)
+[GPOs](screenshots/gpo-examples.png)
