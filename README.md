@@ -19,7 +19,7 @@ Directory Services:
 -   Built multi-region OU structure in the **Active Directory**
 -  Created and managed security and distribution groups
 -  Domain join of client computers
-  [View documentation](OU-Groups-Join.md)
+  [AD-Structure-Documentation](AD-Structure-Documentation.md)
 
 ---
 
