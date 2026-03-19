@@ -26,7 +26,7 @@ Directory Services:
 ### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
-  [Group-Policy-Admin-Test](Group Policy Admin and Test.md)
+  [Group-Policy-Admin-Test.md](Group Policy Admin and Test.md)
 
 ---
 
