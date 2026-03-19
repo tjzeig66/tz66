@@ -20,3 +20,7 @@
 ### Disable Wallpaper via GPO
 
 [Disable Wallpaper](screenshots/GPO-disable-wallpaper.png)
+
+### Disable Client Access to Control Panel
+
+[Disable Access to Control Panel](screenshots/GPO-control-panel-restrictions.png)
