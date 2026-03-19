@@ -19,14 +19,14 @@ Directory Services:
 -   Built multi-region OU structure in the **Active Directory**
 -  Created and managed security and distribution groups
 -  Domain join of client computers
-  [AD-Structure-Documentation](AD-Structure-Documentation.md)
+  [AD-Structure-Documentation.md](AD-Structure-Documentation.md)
 
 ---
 
 ### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
-  [View documentation](GPO-Config.md)
+  [Group-Policy-Admin-Test](Group Policy Admin and Test.md)
 
 ---
 
