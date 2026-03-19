@@ -15,7 +15,7 @@
 
 ### Group Policy Objects Applied to Client VM
 
-[GPOs Applied](screenshots/gpos-applied-client.png)
+[GPOs Applied](screenshots/GPOs-applied-client.png)
 
 ### Disable Wallpaper via GPO
 
