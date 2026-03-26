@@ -1,9 +1,9 @@
 # Active Directory Structure & Management Lab Documentation 
 
-### Process Demonstration
 A sample OU structure was created to demonstratre the implementation workflow within Active Directory.
 
 The domain was organized into regional OUs to seperate users, computers, and servers by location.
+### Process Demonstration
 
 -Navigated to the domain container in ADUC called EastCharmer.local
 -Created a new Organizational Units (OUs) for each region: **US**, **Europe**, and **Asia**
