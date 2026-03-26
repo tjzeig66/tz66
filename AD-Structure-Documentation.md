@@ -5,9 +5,9 @@ A sample OU structure was created to demonstratre the implementation workflow wi
 The domain was organized into regional OUs to seperate users, computers, and servers by location.
 ### Process Demonstration
 
--Navigated to the domain container in ADUC called EastCharmer.local
--Created a new Organizational Units (OUs) for each region: **US**, **Europe**, and **Asia**
--Created child OUs (**Users**, Computers, Servers**) within each regional OU
+- Navigated to the domain container in ADUC called EastCharmer.local
+- Created a new Organizational Units (OUs) for each region: US, Europe, and Asia
+- Created child OUs (Users, Computers, Servers) within each regional OU
 
 Below are screenshots of the outcome of the top-level OUs and child OUs
 
