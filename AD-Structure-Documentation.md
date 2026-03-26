@@ -1,32 +1,15 @@
 # Active Directory Structure & Management Lab Documentation 
 
-### Implementation Process
+### Process Demonstration
+A sample OU structure was created to demonstratre the implementation workflow within Active Directory.
 
-### OU Structure Implementation
+The domain was organized into regional OUs to seperate users, computers, and servers by location.
 
-#### Process Example
-To demonstrate the creation of the Organizational Unit (OU) structure, a sample OU hierarchy was created within the domain.
+-Navigated to the domain container in ADUC called EastCharmer.local
+-Created a new Organizational Units (OUs) for each region: **US**, **Europe**, and **Asia**
+-Created child OUs (**Users**, Computers, Servers**) within each regional OU
 
-- Created a top-level OU named **Test-Region**
-- Created child OUs within Test-Region for:
-  - Users
-  - Computers
-  - Servers
-- Verified proper hierarchy and structure within Active Directory Users and Computers (ADUC)
-
-**Screenshot 1 – OU Creation**  
-Displays the creation of the **Test-Region** OU within the domain.
-
-**Screenshot 2 – Child OU Structure**  
-Displays the completed Test-Region OU with nested child OUs (Users, Computers, Servers).
-
----
-
-
-This structure enables efficient administration and targeted Group Policy application across different regions.
-
-**Screenshot 3 – Full OU Hierarchy**  
-Displays the completed multi-region OU structure within the domain.
+Below are screenshots of the outcome of the top-level OUs and child OUs
 
 ## 1. Organizational Unit (OU) Structure
 Domain
