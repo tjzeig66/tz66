@@ -6,16 +6,16 @@ To demonstrate the creation of the OU structure, a test Organizational Unit (OU)
 
 -Created a top-level OU named "Test Region" within the domain
   
-  ## Screenshot 1: Displays the creation of the "Test-Region" OU within the Active Directory*
-  [OU Structure](screenshots/Test-Region-Organizational-Unit.png)
+   Screenshot 1: Displays the creation of the "Test-Region" OU within the Active Directory*
+  [OU Structure Example](screenshots/Test-Region-Organizational-Unit.png)
   
 -Within the Test-Region OU, created three sub-OUs:
 -Users
 -Computers
 -Server
 
-## Screenshot 2: Displays the process of creating sub-OU Users*
-[OU Structure](screenshots/OU-Users-Test-Region)
+ Screenshot 2: Displays the process of creating sub-OU Users*
+[Child OU Example](screenshots/OU-Users-Test-Region)
 
 Below is the full completed screenshot with actual domain 
 
