@@ -22,17 +22,6 @@ Displays the completed Test-Region OU with nested child OUs (Users, Computers, S
 
 ---
 
-#### Final Implementation
-The production environment OU structure consists of three regional OUs:
-
-- US  
-- Asia  
-- Europe  
-
-Each region contains the following sub-OUs:
-- Users  
-- Computers  
-- Servers  
 
 This structure enables efficient administration and targeted Group Policy application across different regions.
 
