@@ -1,4 +1,8 @@
 ## 3. Group Policy Objects (GPOs)
+
+###Process Demonstration
+
+The following steps were e
 **Configured Group Policy Objects GPOs**
 
 - Default Domain Controllers Policy
