@@ -1,6 +1,6 @@
 # Active Directory Structure & Management Lab Documentation 
 
-A sample OU structure was created to demonstratre the implementation workflow within Active Directory.
+A sample OU structure was created to demonstrated the implementation workflow within Active Directory.
 
 The domain was organized into regional OUs to seperate users, computers, and servers by location.
 ### Process Demonstration
