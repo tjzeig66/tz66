@@ -5,6 +5,7 @@
 To demonstrate the creation of the OU structure, a test Organizational Unit (OU) was created. 
 
 -Created a top-level OU named "Test Region" within the domain
+  
   -Screenshot 1: Displays the creation of the "Tes-Region" OU within the Active Directory 
   [OU Structure](screenshots/Test-Region-Organizational-Unit.png)
   
