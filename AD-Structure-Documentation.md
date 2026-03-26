@@ -17,6 +17,8 @@ To demonstrate the creation of the OU structure, a test Organizational Unit (OU)
 -Screenshot 2: Displays the process of creating sub-OU Users
 [OU Structure](screenshots/OU-Users-Test-Region)
 
+Below is the full completed screenshot with actual domain 
+
 ## 1. Organizational Unit (OU) Structure
 Domain
 
