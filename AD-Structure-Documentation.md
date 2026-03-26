@@ -2,22 +2,42 @@
 
 ### Implementation Process
 
-To demonstrate the creation of the OU structure, a test Organizational Unit (OU) was created. 
+### OU Structure Implementation
 
--Created a top-level OU named "Test Region" within the domain
-  
-     Screenshot 1: Displays the creation of the "Test-Region" OU within the Active Directory*
-  [OU Structure Example](screenshots/Test-Region-Organizational-Unit.png)
-  
--Within the Test-Region OU, created three sub-OUs:
--Users
--Computers
--Server
+#### Process Example
+To demonstrate the creation of the Organizational Unit (OU) structure, a sample OU hierarchy was created within the domain.
 
-   Screenshot 2: Displays the process of creating sub-OU Users*
-[Child OU Example](screenshots/OU-Users-Test-Region)
+- Created a top-level OU named **Test-Region**
+- Created child OUs within Test-Region for:
+  - Users
+  - Computers
+  - Servers
+- Verified proper hierarchy and structure within Active Directory Users and Computers (ADUC)
 
-Below is the full completed screenshot with actual domain 
+**Screenshot 1 – OU Creation**  
+Displays the creation of the **Test-Region** OU within the domain.
+
+**Screenshot 2 – Child OU Structure**  
+Displays the completed Test-Region OU with nested child OUs (Users, Computers, Servers).
+
+---
+
+#### Final Implementation
+The production environment OU structure consists of three regional OUs:
+
+- US  
+- Asia  
+- Europe  
+
+Each region contains the following sub-OUs:
+- Users  
+- Computers  
+- Servers  
+
+This structure enables efficient administration and targeted Group Policy application across different regions.
+
+**Screenshot 3 – Full OU Hierarchy**  
+Displays the completed multi-region OU structure within the domain.
 
 ## 1. Organizational Unit (OU) Structure
 Domain
