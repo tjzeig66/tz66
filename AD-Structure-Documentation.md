@@ -59,11 +59,11 @@ To resolve this, I had to bypass the default Active Directory safety constraints
 ### Europe
 -EU-DL-AllEmployees
 
--EU-DL-ITAdmins
+-US-DL-ITAdmins
 
--EU-IT
+-US-IT
 
--EU-EastCharmer 
+-US-tjzeig
 ... (US and Asia same input)
 
 [Security & Distribution Groups](screenshots/security-distribution-groups.png)
