@@ -30,6 +30,22 @@ Domain
   - Servers
 
 [OU Structure](screenshots/ad-ou-structure.png)
+
+## Troubleshooting: Accidental Deletion Protection
+
+## **Problem** 
+When attempting to delete an incorrectly placed Organizational Unit (OU), the system blocked the action along with the following error message:
+> *"You do not have sufficient privilges to delete Users, or this object is protected from accidental deletion."*
+### **The Fix**
+To resolve this, I had to bypass the default Active Directory safety constraints:
+
+1. **Enable Advanced Features:** In the Active Directory Users and Computers (ADUC) console, I toggled on 'View > Advanced Features'.
+2. **Direct Navigation:** I identified that the **Object** tab is hidden if the OU is found via "Search/Find" tool. I closed the search and manually navigated to the OU through the **Domain Tree"" sidebar.
+3. **Disable Protection**
+   - Right-clicked the OU > Properties**.
+   - Navigated to the now visible **Object** tab.
+   - Unchecked **Protect object from accidental deletion."**
+   **Execution:** Successfully deleted the OY from the directory.
 ## 2. Security & Distribution Groups
 ### Europe
 -EU-DL-AllEmployees
