@@ -52,6 +52,7 @@ To resolve this, I had to bypass the default Active Directory safety constraints
    - Unchecked **Protect object from accidental deletion."**
 
      [Disabling Protection](OU-protection-fix.png)
+     *Disabling the accidental deletion flag in the Object tab.*
      
    **Execution:** Successfully deleted the OU from the directory.
 ## 2. Security & Distribution Groups
