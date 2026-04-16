@@ -56,8 +56,8 @@ To resolve this, I had to bypass the default Active Directory safety constraints
      
    **Execution:** Successfully deleted the OU from the directory.
 ## 2. Security & Distribution Groups
-### Europe
--EU-DL-AllEmployees
+### US
+-US-DL-AllEmployees
 
 -US-DL-ITAdmins
 
