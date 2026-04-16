@@ -42,7 +42,7 @@ To resolve this, I had to bypass the default Active Directory safety constraints
 1. **Enable Advanced Features:** In the Active Directory Users and Computers (ADUC) console, I toggled on 'View > Advanced Features'.
 
    [Enabling Advanced Features](advanced-features-view.png)
-   *Enablingn Advanced Features to expose hidden object attributes.*
+   *Enabling Advanced Features to expose hidden object attributes.*
    
 2. **Direct Navigation:** I identified that the **Object** tab is hidden if the OU is found via "Search/Find" tool. I closed the search and manually navigated to the OU through the **Domain Tree"" sidebar.
   
