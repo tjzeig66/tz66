@@ -50,6 +50,7 @@ To resolve this, I had to bypass the default Active Directory safety constraints
    - Right-clicked the OU > Properties**.
    - Navigated to the now visible **Object** tab.
    - Unchecked **Protect object from accidental deletion."**
+
      [Disabling Protection](OU-protection-fix.png)
      
    **Execution:** Successfully deleted the OU from the directory.
