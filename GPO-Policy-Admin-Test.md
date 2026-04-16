@@ -2,7 +2,7 @@
 
 ###Process Demonstration
 
-The following steps were e
+The following steps were 
 **Configured Group Policy Objects GPOs**
 
 - Default Domain Controllers Policy
