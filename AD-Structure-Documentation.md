@@ -1,4 +1,4 @@
-# Active Directory Structure & Management Lab Documentation 
+# Active Directory Structure & Domain Setup Page
 
 A sample OU structure was created to demonstrated the implementation workflow within Active Directory.
 
