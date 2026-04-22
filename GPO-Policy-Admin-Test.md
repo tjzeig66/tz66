@@ -12,6 +12,8 @@ User Configuration -> Policies -> Administrative Templates -> Control Panel
 Setting:
 - Prohibit access to Control Panel and PC settings: Enabled
 
+[Control Panel Policy Configuration](screenshots/control-panel-policy-config.png)
+
 
 
 The following steps were 
