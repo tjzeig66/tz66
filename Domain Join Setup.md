@@ -10,7 +10,7 @@
 
 -Configured Default Gateway
 
-2. Configured DNS settiongs on the DC 
+2. Configured DNS settings on the DC 
 -Preferred DNS set to 8.8.8.8 for external resolution
 
 ### Network Connectivity (Client VM)
