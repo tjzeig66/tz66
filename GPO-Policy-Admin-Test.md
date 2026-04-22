@@ -27,6 +27,7 @@ Setting:
   [Wallpaper Policy Configuration](screenshots/wallpaper-policy-config.png)
 
 
+
 The following steps were 
 **Configured Group Policy Objects GPOs**
 
