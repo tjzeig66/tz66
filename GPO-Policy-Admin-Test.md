@@ -2,6 +2,18 @@
 
 ###Process Demonstration
 
+### Control Panel Restriction GPO
+
+Configured a Group Policy Object to restrict access to the Control Panel for standard VM client created later
+
+Path:
+User Configuration -> Policies -> Administrative Templates -> Control Panel
+
+Setting:
+- Prohibit access to Control Panel and PC settings: Enabled
+
+
+
 The following steps were 
 **Configured Group Policy Objects GPOs**
 
