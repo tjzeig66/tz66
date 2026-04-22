@@ -35,8 +35,11 @@ Computer Configuration -> Policies -> Windows Settings -> Security Settings -> A
 
 Settings:
 -Minimum password length: Configured (12 characters)
+
 -Password must meet complexity requirements: Enabled
+
 -Maximum password age (90 days)
+
 -Minimum password age (30 days) set automatically when maximum password age was set
 
 [Password Policy Configuration](screenshots/password-policy-config.png)
