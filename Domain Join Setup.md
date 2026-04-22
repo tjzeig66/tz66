@@ -1,6 +1,7 @@
 ### Network Configuration (Domain Controller & Client VM\
 
 1.  Configured IPv4 settings on the Domain Controller (Windows Server 2022):
+
 -Used Command Prompt on DC and typed in ipconfig to find IPv4, Subnet mask, and Default gateway
 
 -Configured static IPv4 address
