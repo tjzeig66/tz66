@@ -14,6 +14,17 @@ Setting:
 
 [Control Panel Policy Configuration](screenshots/control-panel-policy-config.png)
 
+### Desktop Wallpaper Restrictions GPO
+
+Configured a Group Policy Object to prevent users from changing the desktop wallpaper, enforcing a standardized desktop environment across domain-joined machines
+
+Path:
+User configuration -> Policies -> Administrative Templates -> Desktop -> Desktop Wallpaper
+
+Setting:
+- Prevent changing desktop background: Enabled
+
+  [Wallpaper Policy Configuration](screenshots/wallpaper-policy-config.png)
 
 
 The following steps were 
