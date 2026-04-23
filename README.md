@@ -26,7 +26,10 @@ Directory Services:
 - Joined Windows clients to the Active Directory domain
 - Verified authentication and connectivity
 
-[Domain-Join-Documentation](Domain-Join-D.md)
+[Domain-Join-Documentation](Domain-Join-Documentation.md)
+
+---
+
 ### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
