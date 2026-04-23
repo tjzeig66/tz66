@@ -18,7 +18,7 @@ Directory Services:
 ### Active Directory Structure & Management
 -   Built multi-region OU structure in the **Active Directory**
 -  Created and managed security and distribution groups
--  Domain join of client computers
+  
   [AD-Structure-Documentation](AD-Structure-Documentation.md)
 
 ---
@@ -33,13 +33,15 @@ Directory Services:
 ### Group Policy Admin & Test
 -  Configured **Group Policy Objects (GPOs)**
 -  Applied and tested GPOs on client machines
-  [Group-Policy-Admin-Test](GPO-Policy-Admin-Test.md)
+
+[Group-Policy-Admin-Test](GPO-Policy-Admin-Test.md)
 
 ---
 
 ### Security & Services Accounts
  -  Implemented security policies
  - implemented service accounts and used **Sysinternals tools**
+ 
   [View documentation](File-Sharing.md)
 
 ---
@@ -48,4 +50,5 @@ Directory Services:
 -   Set up file sharing and managed access using security groups
 -  Assigned network permissions on Windows file shares
 -  Configured **Access-Based Enumeration** for file resources
-  [View Documentation](Security-ServicesAccounts.md)
+
+[View Documentation](Security-ServicesAccounts.md)
