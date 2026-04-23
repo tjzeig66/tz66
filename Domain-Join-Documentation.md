@@ -10,9 +10,6 @@
 
 -Configured Default Gateway
 
-2. Configured DNS settings on the DC 
--Preferred DNS set to 8.8.8.8 for external resolution
-
 ### Network Connectivity (Client VM)
 
 -Went to control panel 
@@ -24,6 +21,8 @@
 -Went to IPv4 Properties 
 
 -used DCs static IP address as the client VMs Preferred DNS server
+
+[Client DNS Configuration](screenshots/IPv4-DNS-DC-IP.png)
 
 -made sure the client VM is connected by using ping command along with the IPv4 address in the command prompt
 
