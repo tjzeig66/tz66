@@ -38,3 +38,6 @@
 [Domain Join Configuration](screenshots/domain-join-window.png)
 
 6. Restarted pc to complete domain join
+7. client VM logged into DC to prove domain join
+
+[Domain Join Success](screenshots/domain-joined-success.png)
