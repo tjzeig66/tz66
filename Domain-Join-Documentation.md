@@ -15,6 +15,10 @@
 
 ### Network Connectivity (Client VM)
 
+-Went to control panel 
+
+-under network and sharing center 
+
 -Went to change adapter options 
 
 -Went to IPv4 Properties 
