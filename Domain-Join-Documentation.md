@@ -35,6 +35,6 @@
 
 4. provide domain administrator credentials
 
-[Domain Join Configuration](screenshots/domain-join-windows.png)
+[Domain Join Configuration](screenshots/domain-join-window.png)
 
 6. Restarted pc to complete domain join
