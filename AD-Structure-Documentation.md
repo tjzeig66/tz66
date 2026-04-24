@@ -56,6 +56,8 @@ To resolve this, I had to bypass the default Active Directory safety constraints
      
    **Execution:** Successfully deleted the OU from the directory.
 ## 2. Security & Distribution Groups
+  ### Process Demonstration
+  
   - Navigated to Users child OU inside each region
   - then I right clicked and went to the New column and clicked Users
   -I then created users inside Users child OU called US-DL-AllEmployees, US-DL-ITAdmins, US-IT, and US-tjzeig.
