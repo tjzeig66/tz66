@@ -51,4 +51,4 @@ Directory Services:
 -  Assigned network permissions on Windows file shares
 -  Configured **Access-Based Enumeration** for file resources
 
-[View Documentation](Security-ServicesAccounts.md)
+[View Documentation](File-Sharing.md)
