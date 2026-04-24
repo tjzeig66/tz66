@@ -42,7 +42,7 @@ Directory Services:
  -  Implemented security policies
  - implemented service accounts and used **Sysinternals tools**
  
-  [View documentation](FSecurity-Service-Accounts.md)
+  [View documentation](Security-Service-Accounts.md)
 
 ---
   
