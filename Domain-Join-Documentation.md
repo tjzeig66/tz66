@@ -26,6 +26,8 @@
 
 -made sure the client VM is connected by using ping command along with the IPv4 address in the command prompt
 
+---
+
 ### Domain Join Process (Client VM)
 1. Opened system properties on clien VM
 
