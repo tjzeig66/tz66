@@ -44,7 +44,7 @@ Settings:
 
 [Password Policy Configuration](screenshots/password-policy-config.png)
 
-
+---
 
 The following steps were 
 **Configured Group Policy Objects GPOs**
