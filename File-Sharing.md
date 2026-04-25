@@ -4,4 +4,7 @@ This section demonstrates how to configure a shared folder on the domain control
 
 ---
 
-### 1. Create Shared Folder
+###  Create Shared Folder
+
+1. Log into Domain Controller
+2. Navigate to a 
