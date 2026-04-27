@@ -13,4 +13,8 @@ This section demonstrates how to configure a shared folder on the domain control
 ### Configure Share Permissions
 
 1. Right click the 'SHARED' folder and head to properties
-2. Go to the Sharing tab and click \*\*Advanced Sharing\*\*
+2. Go to the Sharing tab and click **Advanced Sharing**
+3. Check the share this folder checkmark and click on permissions
+
+### Set Permissions
+1. Add Domain Users
