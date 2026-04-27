@@ -7,4 +7,10 @@ This section demonstrates how to configure a shared folder on the domain control
 ###  Create Shared Folder
 
 1. Log into Domain Controller
-2. Navigate to a 
+2. Navigate to a local disk (C:)
+3. create new folder inside called SHARED
+
+### Configure Share Permissions
+
+1. Right click the 'SHARED' folder and head to properties
+2. Go to the Sharing tab and click \*\*Advanced Sharing\*\*
