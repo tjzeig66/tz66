@@ -30,6 +30,8 @@ This section demonstrates how to configure a shared folder on the domain control
 3. Right-click **This PC** and click on **Map Network Drive**
 4. Set Drive letter to S:  and type in type in path for the folder created (\\servername\SHARED)
 
+ ## Troubleshooting: VM Reboot Shared File Missing
+ 
 ## **Problem** 
 Once the client VM is rebooted access to the shared file created and mapped is gone so if users were wanting to access the shared file they would have to redo those steps each time.
 ### **The Fix**
