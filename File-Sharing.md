@@ -10,11 +10,15 @@ This section demonstrates how to configure a shared folder on the domain control
 2. Navigate to a local disk (C:)
 3. create new folder inside called SHARED
 
-### Configure Share Permissions
+### Configure Share Permissions (Network Level)
 
-1. Right click the 'SHARED' folder and head to properties
+1. Right click the 'SHARED' folder and head to **Properties**
 2. Go to the Sharing tab and click **Advanced Sharing**
-3. Check the share this folder checkmark and click on permissions
+3. Check the **Share this Folder** checkmark and click on **Permissions**
+4. Click Permissions and click Remove 'Everyone' and Add 'Domain Users'
 
-### Set Permissions
-1. Add Domain Users
+### Configure NTFS Permissions (File System Level)
+
+1. Switch to the **Security** tab
+2. Click **Edit** and then **Add**
+3. Type 'Domain Users' and click **OK**
