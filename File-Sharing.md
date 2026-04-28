@@ -22,3 +22,10 @@ This section demonstrates how to configure a shared folder on the domain control
 1. Switch to the **Security** tab
 2. Click **Edit** and then **Add**
 3. Type 'Domain Users' and click **OK**
+
+### Verification (Client Side)
+
+1. Log into the client VM as a Domain User
+2. Open file explorer
+3. Right-click **This PC** and click on **Map Network Drive**
+4. Set Drive letter to S:  and type in type in path for the folder created (\\servername\SHARED)
