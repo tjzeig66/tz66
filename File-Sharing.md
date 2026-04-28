@@ -36,3 +36,9 @@ This section demonstrates how to configure a shared folder on the domain control
 Once the client VM is rebooted access to the shared file created and mapped is gone so if users were wanting to access the shared file they would have to redo those steps each time.
 ### **The Fix**
 To resolve this, you have to configure a GPO to automatically map network drives for users:
+
+1. Go to Group Policy Management on Domain Controller and make a new GPO called **Mapped Drives** and click **Edit**
+2. Path: User Configuration --> Preferences -->Window Settings --> Drive Maps -->>new mapped drive
+3. type in \\servername\SHARED
+4. and make drive letter S:
+5. Drag and drop the newly made GPO in the Users section of one of the regions (US)
