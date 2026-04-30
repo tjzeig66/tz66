@@ -17,6 +17,7 @@ This section demonstrates how to configure a shared folder on the domain control
 3. Check the **Share this Folder** checkmark and click on **Permissions**
 4. Click Permissions and click Remove 'Everyone' and Add 'Domain Users'
 
+[share permissions setup](screenshots/share-permissions-setup.png)
 ### Configure NTFS Permissions (File System Level)
 
 1. Switch to the **Security** tab
