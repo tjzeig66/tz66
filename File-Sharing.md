@@ -44,3 +44,5 @@ To resolve this, you have to configure a GPO to automatically map network drives
 3. type in \\servername\SHARED
 4. and make drive letter S:
 5. Drag and drop the newly made GPO in the Users section of one of the regions (US)
+
+[persistent file share](screenshots/persistent-file-share.png)
