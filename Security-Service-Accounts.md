@@ -24,3 +24,16 @@ Computer Configuration -> Policies -> Windows Settings -> Security Settings -> A
 Password Policy Test:
 
 [Password Policy Test](screenshots/password-policy-test.png)
+
+---
+
+### Configure Account Lockout Policy
+
+1. Open Group Policy Management Console again
+2. right click default domain policy and press edit
+3. Navigate this path: Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Account Policies -> Account Lockout Policy
+
+4. Configure
+  -Account Lockout Duration: 30 minutes
+   -Account Lockout Threshold: 3 invalid attempts
+   -Reset account lockout counter after: 30 minutes
