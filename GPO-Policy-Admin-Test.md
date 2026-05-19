@@ -1,6 +1,6 @@
 ## 3. Group Policy Objects (GPOs)
 
-###Process Demonstration
+### Process Demonstration
 
 ### Control Panel Restriction GPO
 
