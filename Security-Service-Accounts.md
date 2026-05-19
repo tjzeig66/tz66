@@ -50,9 +50,11 @@ Password Policy Test:
 
    4. Configure restrictions for:
       -Allow log on locally
+
       [User Deny Login](screenshots/user-rights-deny-login.png)
 
       -Allow log on through Remote Desktop Services
+
       [User Rights RDP](screenshots/user-rights-allow-RDP.png)
 
       
