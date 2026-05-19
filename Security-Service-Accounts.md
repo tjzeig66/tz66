@@ -1,1 +1,18 @@
 ### Implemented Security Policies using Group Policy Management Console & Active Directory Administrative Center (ADAC)
+
+
+Configured password policy settings to enforce domain-wide password complexity and security requirements via the Default Domain Policy
+
+Path:
+Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Account Policies -> Password Policy
+
+Settings:
+-Minimum password length: Configured (12 characters)
+
+-Password must meet complexity requirements: Enabled
+
+-Maximum password age (90 days)
+
+-Minimum password age (30 days) set automatically when maximum password age was set
+
+[Password Policy Configuration](screenshots/password-policy-config.png)
