@@ -38,4 +38,4 @@ Password Policy Test:
    -Account Lockout Threshold: 3 invalid attempts
    -Reset account lockout counter after: 30 minutes
 
-   [Account Lockout Policy}(screenshots/account-lockout.png)
+   [Account Lockout Policy](screenshots/account-lockout.png)
