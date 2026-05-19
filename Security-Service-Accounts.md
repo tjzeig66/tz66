@@ -19,3 +19,6 @@ Computer Configuration -> Policies -> Windows Settings -> Security Settings -> A
 -Minimum password age (30 days) set automatically when maximum password age was set
 
 [Password Policy Configuration](screenshots/password-policy-config.png)
+
+Password Policy Test 
+[Password Policy Test](screenshots/password-policy-test.png)
