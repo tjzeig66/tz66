@@ -42,19 +42,24 @@ Password Policy Test:
 
    ---
 
-   ### Assign & Restrict User Rights
+  ### Assign & Restrict User Rights
 
-   1. Open Group Policy Management Console
-   2. right click Default Domain Policy and click edit
-   3. Navigate this path: Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment
+1. Open Group Policy Management Console
+2. Right click Default Domain Policy and click edit
+3. Navigate this path:
 
-   4. Configure restrictions for:
-      -Allow log on locally
+```text
+Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment
+```
 
-      [User Deny Login](screenshots/user-rights-deny-login.png)
+4. Configure restrictions for:
 
-      -Allow log on through Remote Desktop Services
+- Allow log on locally
 
-      [User Rights RDP](screenshots/user-rights-allow-RDP.png)
+[User Deny Login](screenshots/user-rights-deny-login.png)
+
+- Allow log on through Remote Desktop Services
+
+[User Rights RDP](screenshots/user-rights-allow-RDP.png)
 
       
