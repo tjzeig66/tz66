@@ -39,3 +39,20 @@ Password Policy Test:
    -Reset account lockout counter after: 30 minutes
 
    [Account Lockout Policy](screenshots/account-lockout.png)
+
+   ---
+
+   ### Assign & Restrict User Rights
+
+   1. Open Group Policy Management Console
+   2. right click Default Domain Policy and click edit
+   3. Navigate this path: Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment
+
+   4. Configure restrictions for:
+      -Allow log on locally
+      [User Deny Login](screenshots/user-rights-deny-login.png)
+
+      -Allow log on through Remote Desktop Services
+      [User Rights RDP](screenshots/user-rights-allow-RDP.png)
+
+      
