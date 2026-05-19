@@ -44,7 +44,7 @@ Password Policy Test:
 
    ### Assign & Restrict User Rights
 
-   1. Open Group Policy Management Console
+      Open Group Policy Management Console
    2. right click Default Domain Policy and click edit
    3. Navigate this path: Computer Configuration -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment
 
