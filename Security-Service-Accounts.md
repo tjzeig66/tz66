@@ -21,4 +21,5 @@ Computer Configuration -> Policies -> Windows Settings -> Security Settings -> A
 [Password Policy Configuration](screenshots/password-policy-config.png)
 
 Password Policy Test 
+
 [Password Policy Test](screenshots/password-policy-test.png)
