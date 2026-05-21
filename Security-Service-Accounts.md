@@ -59,4 +59,15 @@ Computer Configuration -> Policies -> Windows Settings -> Security Settings -> L
 
 [User Rights RDP](screenshots/user-rights-allow-RDP.png)
 
+---
+
+### Implementation of Fine-Grained Password Policies
+
+1. Open Active Directory Administrative Center on the Domain Controller
+2. Once in click on domain name to the left and follow path: system -> Password Settings Container
+3. Once in Password Settings click on **New** create password policy for admins or regular users
+4. select name and policy with clear name and change the precedence of the password (which determines the order in which policy objects are applied)
+5. You can also change minimum password length, password history, and password complexity
+
+[Fine-Grained Password Policy](screenshots/fine-grained-password-policy.png)
       
