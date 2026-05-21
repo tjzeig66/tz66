@@ -49,6 +49,5 @@ Directory Services:
 ### File Services & Permissions
 -   Set up file sharing with appropriate permissions
 -  Set NTFS and share permissions to allow the domain users (client vm) access
--  Configured **Access-Based Enumeration** for file resources
 
 [View Documentation](File-Sharing.md)
